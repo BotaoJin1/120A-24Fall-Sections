@@ -6,7 +6,7 @@ This folder contains the following resources to help you get started:
 - **Section Notes for Week 2**: A guide to basic counting methods, including permutations, combinations, and the multiplication principle.
 
 
-- **Study Recommendations**:
+## Study Recommendations:
 Since no homework assignment will be due in Week 1, you are encouraged to take this opportunity to build a strong foundation for future topics. To support your study and preparation for Homework 1, please review the following sections from the textbook:
 
 - **Appendix B**: Set Theory – Offers a detailed explanation of set notation and operations.
