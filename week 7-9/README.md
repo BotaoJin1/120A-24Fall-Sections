@@ -6,4 +6,4 @@ This folder contains the following resources to assist you in your studies:
 
 - **Section Notes for Week 8**: Exercises focused on *Expectations* to reinforce your understanding.
 
-- **Section Notes for Week 9**: No additional materials for this week. The section is designed to review parts of the notes from Weeks 7 and 8, which were not covered in earlier sessions.
+- **Section Notes for Week 9**: Some examples of double/triple integral and exponential distribution.
